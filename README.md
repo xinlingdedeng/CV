@@ -45,7 +45,6 @@ Research Focus: Temporal Set Prediction, Heterogeneous Information Network, Repr
 ***\*Nannan Shi\****, Le Yu, Leilei Sun, Lihua Wang, Chunming Lin, and Ruixing Zhang, Deep Heterogeneous Network for Temporal Set Prediction, Knowledge-Based Systems, Volume 223,2021, https://doi.org/10.1016/j.knosys.2021.107039.
 
 ***\*Nannan Shi\****, Leilei Sun, Ruixing Zhang, Xin Zhang, Heterogeneous Graph Network for Temporal Sets Prediction. (In preparation).
-
  
 
  
